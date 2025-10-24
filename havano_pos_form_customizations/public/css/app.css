@@ -1,0 +1,19 @@
+body[data-route="query-report/Customer Ledgers"] .dt-footer{
+    display: none !important;
+}
+body[data-route="query-report/Customer Ledger Summary New"] .dt-footer{
+    display: none !important;
+}
+body[data-route="query-report/Customer Statement 1"] .dt-footer{
+    display: none !important;
+}
+body[data-route="query-report/Customer Statement 1"] .datatable > .dt-scrollable > .dt-row:last-child {
+    display: none !important;
+}
+
+body[data-route="query-report/Customer Em"] .dt-footer{
+    display: none !important;
+}
+body[data-route="query-report/Customer Em"] .datatable > .dt-scrollable > .dt-row:last-child {
+    display: none !important;
+}
